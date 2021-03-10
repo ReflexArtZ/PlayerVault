@@ -1,0 +1,12 @@
+Config:
+  debug: true
+  prefix: "&aPlayerVault &6> &8"
+  guiTitle: "&7PlayerVault &a%id%"
+  maxCount: "You already achieved the max PlayerVaults you can have! (%max%)"
+  noPermission: "You don't have the permission for that!"
+  MySQL:
+    user: "root"
+    password: ""
+    host: "localhost"
+    port: 3306
+    database: "playervaults"

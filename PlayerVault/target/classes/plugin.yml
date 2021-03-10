@@ -1,0 +1,7 @@
+name: PlayerVault
+version: 1.0-SNAPSHOT
+main: de.emeraldmc.playervault.PlayerVault
+commands:
+  avault:
+  avreload:
+    permission: playervault.reload
